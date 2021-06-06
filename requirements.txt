@@ -1,0 +1,16 @@
+# Sccdg is implemented with the help of the following packages
+
+
+Python=3.6.2
+
+h5py=2.10.0
+
+keras=2.4.3
+
+numpy=1.19.2
+
+tensorflow-gpu=2.4.1
+
+spektral=0.6.1
+
+scanpy=1.7.1
